@@ -1,12 +1,28 @@
 
 
+#browse-carousel {
+    max-width: 300px;
+    margin: auto;
+}
 
+.carousel-inner {
+	padding-left: 0px;
+}
 
 .jumbotron {
 	text-align: center;
 	margin-bottom: 1%;
 }
 
+.well {
+	background: red;
+	color: white;
+	border-width: 0px;
+}
+
+#add-to-watchlist {
+	width: 100%;
+}
 
 #section-watchlist li {
 	padding: 0px;
@@ -14,17 +30,14 @@
 	width: 140px;
 }
 
-
 #section-watchlist li button {
 	width: 100%;
 	margin-top: 10px;
 }
 
-
 #section-watchlist ul {
 	text-align: center;
 }
-
 
 .main-content {
 	color: gray;
